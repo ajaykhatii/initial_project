@@ -1,0 +1,18 @@
+body 
+{
+    background: url("https://www.pixelstalk.net/wp-content/uploads/2016/08/Beautiful-Library-Wallpaper.jpg") no-repeat fixed center;
+  }
+h1{
+    margin-left: 23rem;
+    font-size: xxx-large;
+    color: cyan;
+}
+h2{
+    margin-left: 31rem;
+    font-size: xxx-large;
+    margin-top: 4rem;
+    color: rgb(37, 2, 2);
+}      
+.mt-3{
+    margin-top:5rem!important;
+}
